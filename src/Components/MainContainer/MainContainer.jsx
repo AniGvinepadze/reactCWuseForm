@@ -150,7 +150,7 @@ const MainContainer = () => {
           </div>
         </form>
         <DevTool control={control} />
-        <div className="p-9 sm:hidden">
+        <div className="hidden p-9 xl:flex ">
           <img src={img} alt="img" />
         </div>
       </div>
